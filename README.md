@@ -1,4 +1,6 @@
-# Free_Access![banner](https://github.com/DoTick0/Free_Access/assets/151197265/b1ab9bd2-f556-43eb-962e-cc83beadb435)
+# Free_Access
+<p align="center"><img src="https://github.com/DoTick0/Free_Access/assets/151197265/b1ab9bd2-f556-43eb-962e-cc83beadb435" alt="freeaccess" width="700"/></p>
+
 
 فری اکسس پروکسی یا FreeAccess یک سیستم اتصال به پروکسی هوشمند و کاملا برخط است
 برای اتصال به این سرویس میبایست توسط یکی از اعضای قبلی به ربات دعوت شوید
