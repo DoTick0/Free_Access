@@ -12,14 +12,14 @@
 ## آموزش اتصال Android:
 آموزش اتصال به اشتراک فری اکسس با سیستم عامل اندروید:
 
-> [**مشاهده آموزش اتصال**](https://github.com/DoTick0/Free_Access/blob/main/android/main.md)
+> [**مشاهده آموزش اتصال اندروید**](https://github.com/DoTick0/Free_Access/blob/main/android/main.md)
 
 ## آموزش اتصال ios آیفون:
 
-> [**مشاهده آموزش اتصال**](https://github.com/DoTick0/Free_Access/blob/main/ios/main.md)
+> [**مشاهده آموزش اتصال ios**](https://github.com/DoTick0/Free_Access/blob/main/ios/main.md)
 
 ## آموزش اتصال ویندوز:
 
-> [**مشاهده آموزش اتصال**](https://github.com/DoTick0/Free_Access/blob/main/windows/main.md)
+> [**مشاهده آموزش اتصال windows**](https://github.com/DoTick0/Free_Access/blob/main/windows/main.md)
 
 
