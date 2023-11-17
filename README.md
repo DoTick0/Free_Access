@@ -1,2 +1,5 @@
 # Free_Access
-Free Access is a system for having free access to the internet.
+فری اکسس پروکسی یا FreeAccess یک سیستم اتصال به پروکسی هوشمند و کاملا برخط است
+برای اتصال به این سرویس میبایست توسط یکی از اعضای قبلی به ربات دعوت شوید
+
+#آموزش اتصال
